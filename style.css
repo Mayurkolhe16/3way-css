@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(250, 200, 48);
+}
+h1{
+    color: rgb(247, 247, 245);
+    background-color: rgb(230, 84, 40);
+}
+#virat{
+    height: 250px;
+    width: 250px;
+}
+.info{
+    font-size: 20px;
+}
